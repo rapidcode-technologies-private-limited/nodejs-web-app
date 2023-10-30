@@ -3,3 +3,5 @@ Dockerfile.test
 node_modules
 .gitignore
 .git
+Terraform
+
